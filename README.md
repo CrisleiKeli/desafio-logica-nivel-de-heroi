@@ -1,4 +1,4 @@
-# 1 Desafio Classificador de Nível de Heroí
+# 1 - Desafio Classificador de Nível de Heroí
 
 **O que deve ser utilizado**
 
