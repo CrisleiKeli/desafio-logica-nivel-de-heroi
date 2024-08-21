@@ -2,13 +2,13 @@
 
 **O que deve ser utilizado**
 
--Variáveis
+- Variáveis
 
--Operadores
+- Operadores
 
--Laços de repetição
+- Laços de repetição
 
--Estruturas de decisões
+- Estruturas de decisões
 
 # Objetivo
 
